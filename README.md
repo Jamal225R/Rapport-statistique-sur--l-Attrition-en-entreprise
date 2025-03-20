@@ -8,7 +8,8 @@ contre inciteraient certains à partir.
 J'ai besoin de savoir quels facteurs prendre en compte pour éviter la perte de bons
 talents. En d'autres mots comment gérer au mieux les différentes sources de
 performance pour retenir au mieux mes collaborateurs ?
-Concepts clés: Attrition, performance, motivations , salaire ,qualité de vie au travail
+
+* Concepts clés: Attrition, performance, motivations , salaire ,qualité de vie au travail
 ## Objectif
 Prendre en  main  Tableau pour realiser  un rapport statistique sur  l' Attrition des employés.
 
